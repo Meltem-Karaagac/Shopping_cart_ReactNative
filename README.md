@@ -15,7 +15,7 @@
 
 <!-- OVERVIEW -->
 ## Overview
-<img src="./overview/shopping.gif" height="500">|
+<img src="./overview/shop.gif" height="500">|
 
 
 
