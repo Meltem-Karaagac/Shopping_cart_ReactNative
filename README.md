@@ -53,6 +53,6 @@ $ npx react-native run-ios
 
 ## Contact
 
-- GitHub [@your-Meltem-Karaagac](https://github.com/Meltem-Karaagac)
+- GitHub [Meltem-Karaagac](https://github.com/Meltem-Karaagac)
 - Linkedln [meltem-karaagac](https://www.linkedin.com/in/meltem-karaagac/)
 
